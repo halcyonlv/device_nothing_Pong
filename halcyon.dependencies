@@ -1,0 +1,20 @@
+[
+    {
+        "remote": "halcyon"
+        "repository": "packages_apps_ParanoidGlyph",
+        "target_path": "packages/apps/ParanoidGlyph"
+        "branch": "14.3"
+    },
+    {
+        "remote": "halcyon",
+        "target_path": "kernel/nothing/sm8475",
+        "repository": "halcyonlv/kernel_nothing_sm8475.git",
+        "branch": "ursinia"
+    },
+    {
+        "remote": "gitlab",
+        "target_path": "vendor/nothing/Pong",
+        "repository": "halcyonproject/blobs/vendor_nothing_pong.git",
+        "branch": "ursinia"
+    }
+]
